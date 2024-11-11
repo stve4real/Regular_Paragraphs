@@ -2,6 +2,7 @@
     width:50%;
     font-style:italic;
     font-weight:bold;
+    background-color: aqua;
 }
 
 .author {
@@ -15,6 +16,7 @@ p.end {
     font-weight: bolder;
     font-style:italic;
     color: blue;
+    
     
 }
 
