@@ -1,0 +1,44 @@
+p.Elizabeth{
+    font-style: italic;
+    font-weight: 100%;
+    color:tomato ;
+    text-align: center;
+}
+li.Elizabeth{
+    font-size: large;
+    font-style: italic;
+    color: blue;
+    font-weight: 100%;
+
+    
+}
+.cupcakes{
+    font-size: bold;
+    font-style: italic;
+    font-weight: 200%;
+    color: green;
+    text-align: center;
+
+}
+.mood{
+    font-weight: 100%;
+    font-style: italic;
+    color: brown;
+    
+    
+}
+.cupcake{
+    font-weight:bold;
+    color:purple;
+    font-style:italic;
+    font-weight: 100%;
+    
+}
+ div{
+    display:inline-flex;
+    float: none;
+    width: auto;
+
+    
+ 
+}
